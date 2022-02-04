@@ -168,7 +168,7 @@ body {
 
 .card-image2 {
     grid-area: image;
-    background: url(images/Samira1.jpg);
+    background: url(images/Samira.jpg);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;
